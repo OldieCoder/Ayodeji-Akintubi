@@ -1,3 +1,2 @@
 Read me file
-
-THis is me
+This is the updated version of the Read.md file
